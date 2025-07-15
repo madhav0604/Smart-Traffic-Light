@@ -1,2 +1,2 @@
-# Car-Parking-System
-Verilog based car parking system
+# Smart-Traffic-Light
+Verilog based smart traffic light system
